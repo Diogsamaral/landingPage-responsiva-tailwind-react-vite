@@ -48,10 +48,10 @@ const HeroSection = () => {
           <img
             src="/src/assets/wfa.jpg"
             alt="trabalhe de qualquer lugar"
-            className="outline outline-white shadow-2xl shadow-black lg:w-[600px] lg:rounded-full"
+            className="outline outline-white shadow-2xl shadow-black lg:w-[400px] lg:rounded-full"
           />
         </div>
-        <div className="space-y-6 mt-16 lg:flex-1 lg:order-1 lg:mt-32 text-transform">
+        <div className="space-y-6 mt-5 lg:flex-1 lg:order-1 lg:mt-32 text-transform">
           <div className="text-6xl font-bold leading-tight">
             <h1>Let's Switch</h1>
             <h1>To Remote</h1>
