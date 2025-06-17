@@ -46,7 +46,7 @@ const HeroSection = () => {
       <main className="lg:flex">
         <div className="flex items-center justify-center lg:flex-1 lg:order-2 image-transform">
           <img
-            src="/src/assets/wfa.jpg"
+            src="./assets/wfa.jpg"
             alt="trabalhe de qualquer lugar"
             className="outline outline-white shadow-2xl shadow-black lg:w-[400px] lg:rounded-full"
           />
